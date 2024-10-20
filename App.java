@@ -44,8 +44,8 @@ public class App {
        System.out.println("5 * 2 = 10");
 
 
-        number1 = 20;
-        number2 = 4;
+        number1 = 5;
+        number2 = 2;
         // Addition
         int addition = number1 + number2;
         System.out.println("The sum of number1 and number2 is " + addition);
