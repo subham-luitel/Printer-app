@@ -7,7 +7,7 @@ public class App {
         //3. Print "this app is made by:" to the console
         System.out.println("This app is made by:");
 
-        String creator = "Subham";   //4. declare string typed variable as creator
+        String creator = "Subham Luitel";   //4. declare string typed variable as creator
         System.out.println(creator);  // 5. print the value of creator. also try to get on the same line as "thsi app is mad by:" + creator
 
         System.out.print("This app is made by: ");
@@ -60,5 +60,5 @@ public class App {
         int substraction = number1 - number2;
         System.out.println("The difference of number1 and number2 is " + substraction);
 
-    }
+}
 }
